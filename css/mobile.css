@@ -43,4 +43,11 @@
         order: -1;
       }
 
+      .videoSobre .container{
+        flex-direction: column;
+      }
+
+      .videoSobre-sobre{
+        margin: 0 auto;
+      }
 }
